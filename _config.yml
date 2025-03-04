@@ -1,5 +1,8 @@
-title: Tactile theme
-description: Tactile is a theme for GitHub Pages.
+title: Sabrine Saouli
+description: Resume.
 show_downloads: true
-google_analytics:
+google_analytics: 
 theme: jekyll-theme-tactile
+url: "https://sabrinesaouli.github.io"
+baseurl: ""
+
