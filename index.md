@@ -102,15 +102,14 @@ My most recent work implements MLP neural networks to predict optimal genetic al
 
 - 📧 Email: [Sabrine.Saouli@lip6.com](mailto:Sabrine.Saouli@lip6.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sabrine-saouli-8b0b03191)
-- 🏫 [Academic Profile - Sorbonne Université](https://www.lip6.fr)
+- 🏫 [Academic Profile - Sorbonne Université](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2434)
 
 ---
 
 ### CV and Additional Resources
 
 - [Download Full CV (PDF)](link-to-cv)
-- [Research Gate Profile](link-to-research-gate)
-- [Google Scholar](link-to-google-scholar)
+- [Research Gate Profile](lhttps://www.researchgate.net/profile/Sabrine-Saouli-2)
 
 ---
 
