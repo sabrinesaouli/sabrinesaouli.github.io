@@ -1,6 +1,6 @@
 ---
 title: "Sabrine Saouli | Academic Portfolio"
-layout: post
+layout: default
 ---
 
 # Sabrine Saouli
